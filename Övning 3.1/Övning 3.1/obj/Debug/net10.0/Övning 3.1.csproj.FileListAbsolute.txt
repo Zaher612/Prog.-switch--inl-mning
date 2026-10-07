@@ -1,0 +1,15 @@
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\bin\Debug\net10.0\Övning 3.1.exe
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\bin\Debug\net10.0\Övning 3.1.deps.json
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\bin\Debug\net10.0\Övning 3.1.runtimeconfig.json
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\bin\Debug\net10.0\Övning 3.1.dll
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\bin\Debug\net10.0\Övning 3.1.pdb
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\Övning 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\Övning 3.1.AssemblyInfoInputs.cache
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\Övning 3.1.AssemblyInfo.cs
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\Övning 3.1.csproj.CoreCompileInputs.cache
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\Övning 3.1.dll
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\refint\Övning 3.1.dll
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\Övning 3.1.pdb
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\Övning 3.1.genruntimeconfig.cache
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\ref\Övning 3.1.dll
+C:\Github\Prog. switch\Övning 3.1\Övning 3.1\obj\Debug\net10.0\Övning 3.1.csproj.Up2Date
