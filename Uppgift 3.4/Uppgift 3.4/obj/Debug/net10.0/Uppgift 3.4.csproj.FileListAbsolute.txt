@@ -1,0 +1,15 @@
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\bin\Debug\net10.0\Uppgift 3.4.exe
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\bin\Debug\net10.0\Uppgift 3.4.deps.json
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\bin\Debug\net10.0\Uppgift 3.4.runtimeconfig.json
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\bin\Debug\net10.0\Uppgift 3.4.dll
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\bin\Debug\net10.0\Uppgift 3.4.pdb
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\Uppgift 3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\Uppgift 3.4.AssemblyInfoInputs.cache
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\Uppgift 3.4.AssemblyInfo.cs
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\Uppgift 3.4.csproj.CoreCompileInputs.cache
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\Uppgift 3.4.dll
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\refint\Uppgift 3.4.dll
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\Uppgift 3.4.pdb
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\Uppgift 3.4.genruntimeconfig.cache
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\ref\Uppgift 3.4.dll
+C:\Github\Prog. switch\Uppgift 3.4\Uppgift 3.4\obj\Debug\net10.0\Uppgift .3BBA67BC.Up2Date
